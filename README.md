@@ -3,5 +3,5 @@ Hi there!
 📫 How to reach me:
 <p>
   <a href="https://www.linkedin.com/in/mattia-brianti-b87a46202/" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="linkedin"> LinkedIn
   </a> &nbsp; 

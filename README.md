@@ -1,6 +1,6 @@
 Hi there!
 
-👋 I'm Mattia Brianti, a Engineering of Computing Systems student at Politecnico di Milano. This repository is a collection of my academic projects, personal experiments, and collaborative works.
+👋 I'm Mattia Brianti, an Engineering of Computing Systems student at Politecnico di Milano. This repository is a collection of my academic projects, personal experiments, and collaborative works.
 
 📫 How to reach me:
 
